@@ -1,23 +1,30 @@
-# 👋 Olá, eu sou o SolinaDev!
+# 👋 Olá, meu nome é Raphael Solina
 
-💻 Desenvolvedor em constante aprendizado  
-🎯 Focado em **Front-end | Back-end | Projetos Web**  
-📚 Atualmente estudando **JavaScript, Node.js e React**  
+🎓 Estudante de **Desenvolvimento de Sistemas - SENAI** (2º semestre)  
+💻 Apaixonado por tecnologia e programação  
+🚀 Buscando evoluir em **projetos práticos e colaboração em equipe**  
 
 ---
 
-## 🚀 Tecnologias que uso
+## 📚 O que estou aprendendo atualmente
+- Lógica de programação e boas práticas
+- **HTML, CSS e JavaScript**
+- Banco de dados (SQL)
+- Programação orientada a objetos
+- Desenvolvimento de aplicações web
+
+---
+
+## 🛠 Tecnologias e ferramentas
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📌 Projetos em destaque
-- 🔗 [Meu Projeto Legal 1](https://github.com/SolinaDev/projeto1)  
-- 🔗 [Meu Projeto Legal 2](https://github.com/SolinaDev/projeto2)  
+## 📌 Projetos acadêmicos
+📖 Aqui você vai encontrar projetos e exercícios que desenvolvi durante o curso no SENAI.  
 
 ---
 
@@ -27,7 +34,10 @@
 
 ---
 
-## 🌐 Onde me encontrar
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.com)
+## 🌐 Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-usuario)  
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seuemail@gmail.com)
+
+---
+
+✨ *“Cada linha de código é um passo a mais rumo ao futuro da tecnologia.”*
