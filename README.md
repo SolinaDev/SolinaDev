@@ -29,7 +29,7 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=SolinaDev&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=SolinaDev&theme=radical&border_radius=8)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SolinaDev&layout=compact&theme=radical)
 
 ---
